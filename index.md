@@ -23,10 +23,9 @@ Test
 ## Enhanced Artifacts
 Test
 ## Narratives
-[Edit Medical Record - Software Design & Engineering](tvchatten.github.io/enhancements/EnhancementOne.pdf)
-[Appointment Scheduling/Calculating Penalty- Algorithms & Data Structure](tvchatten.github.io/enhancements/Module4_Enhancements_AlgorithmsDataStructure.pdf)
-[MongoDB/Databases](tvchatten.github.io/enhancements/EnhancementThree_Databases.pdf)
-
+[Edit Medical Record - Software Design & Engineering](enhancements/EnhancementOne.pdf)<br>
+[Appointment Scheduling/Calculating Penalty- Algorithms & Data Structure](enhancements/Module4_Enhancements_AlgorithmsDataStructure.pdf)<br>
+[MongoDB/Databases](enhancements/EnhancementThree_Databases.pdf)
 
 
 ### Header 3
