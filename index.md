@@ -36,7 +36,7 @@ Together, these artifacts provide a holistic view of my technical talents and ab
 # Original Artifact
 As a note, the original artifact didn't have the database connected nor did it have the algorithm portion coded up. It was a shell of the Dementia app project idea I received from another class at SNHU.
 
-[Original Artifact](HealthcareEMRProject)
+[Original Artifact](https://github.com/TVChatten/CapstoneEMR/tree/00e476a600daa7b7ec6950f6541aa600c04d0998/HealthcareEMRProject)
 
 # Enhanced Artifacts
 [Enhanced - Edit Medical Records - Software Design & Engineering](originalartifacts/softwaredesigneng)<br>
@@ -50,7 +50,7 @@ As a note, the original artifact didn't have the database connected nor did it h
 
 # Final Completed Project
 
-[Final Project](FinalProject)
+[Final Project](https://github.com/TVChatten/tvchatten.github.io/tree/29bc3bd30463282cefe5e77b643dc8d9c3868e6b/FinalProject/CapstoneEMR)
 
 With the Final Project, a lot more security was built into the seed.py file and more comments added onto the views.py file.
 
