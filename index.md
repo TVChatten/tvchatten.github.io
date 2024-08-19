@@ -39,9 +39,9 @@ As a note, the original artifact didn't have the database connected nor did it h
 [Original Artifact](https://github.com/TVChatten/CapstoneEMR/tree/00e476a600daa7b7ec6950f6541aa600c04d0998/HealthcareEMRProject)
 
 # Enhanced Artifacts
-[Enhanced - Edit Medical Records - Software Design & Engineering](originalartifacts/softwaredesigneng)<br>
-[Enhanced - Appointment Scheduling - Algorithms & Data Structure](originalartifacts/dataalgorithm)<br>
-[Enhanced - MongoDB - Database](originalartifacts/database)<br>
+[Enhanced - Edit Medical Records - Software Design & Engineering](https://github.com/TVChatten/tvchatten.github.io/tree/master/enhancedartifacts/softwaredesigneng)<br>
+[Enhanced - Appointment Scheduling - Algorithms & Data Structure](https://github.com/TVChatten/tvchatten.github.io/tree/master/enhancedartifacts/dataalgorithm)<br>
+[Enhanced - MongoDB - Database](https://github.com/TVChatten/tvchatten.github.io/tree/master/enhancedartifacts/database)<br>
 
 # Narratives
 [Edit Medical Record - Software Design & Engineering](enhancements/EnhancementOne.pdf)<br>
