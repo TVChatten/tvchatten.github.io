@@ -1,0 +1,30 @@
+<!--Document file to view medical records-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Record for {{ patient.user.username }}</title>
+</head>
+<body>
+    <h1>Medical Record for {{ patient.user.username }}</h1>
+    <ul>
+        {% for record in medical_records %}
+            <li>
+                <strong>Record Date:</strong> {{ record.created_at }}<br>
+                {% for note in record.notes.all %}
+                    <p>{{ note.content }} - <em>by {{ note.created_by.username }} on {{ note.created_at }}</em></p>
+                {% endfor %}
+                {% if user.role == 'doctor' %}
+                    <a href="{% url 'edit_medical_record' record.id %}">Edit Record</a>
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+    {% if user.role == 'doctor' or user.role == 'nurse' %}
+        <a href="{% url 'add_medical_note' patient.id %}">Add Medical Note</a>
+    {% endif %}
+    <a href="{% url 'home' %}">Back to Home</a>
+</body>
+</html>
