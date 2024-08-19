@@ -27,10 +27,7 @@ Test
 [Appointment Scheduling/Calculating Penalty- Algorithms & Data Structure](tvchatten.github.io/enhancements/Module4_Enhancements_AlgorithmsDataStructure.pdf)
 [MongoDB/Databases](tvchatten.github.io/enhancements/EnhancementThree_Databases.pdf)
 
-# Test
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
 
 ### Header 3
 
