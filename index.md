@@ -10,13 +10,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Professional Self Assessment
+## Professional Self Assessment
 
 [Professional Self Assessment]()
 
-# Code Review
+## Code Review
 
 [Code Review via YouTube](https://youtu.be/0HIEavdgiZg )
+
+## Original Artifacts
+
+## Enhanced Artifacts
+
+## Narratives
 
 > This is a blockquote following a header.
 >
