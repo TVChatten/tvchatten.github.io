@@ -1,0 +1,19 @@
+<!--Document file to schedule appointments-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule Appointment</title>
+</head>
+<body>
+    <h1>Schedule Appointment with Dr. {{ doctor.user.username }}</h1>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Schedule</button>
+    </form>
+    <a href="{% url 'view_appointments' %}">Back to Appointments</a>
+</body>
+</html>
